@@ -2,12 +2,12 @@
   font-family: 'Potta One Regular';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/0H4S/Themes-MP@main/Fonts/WOFF2/PottaOne-Regular.woff2) format('woff2');
+  src: url(https://cdn.jsdelivr.net/gh/0H4S/Themes@main/Fonts/WOFF2/PottaOne-Regular.woff2) format('woff2');
 }
 
 @font-face {
   font-family: 'JetBrains Mono Medium';
   font-style: normal;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/0H4S/Themes-MP@main/Fonts/WOFF2/JetBrainsMono-Medium.woff2) format('woff2');
+  src: url(https://cdn.jsdelivr.net/gh/0H4S/Themes@main/Fonts/WOFF2/JetBrainsMono-Medium.woff2) format('woff2');
 }
