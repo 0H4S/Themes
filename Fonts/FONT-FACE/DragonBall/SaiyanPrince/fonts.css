@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Saira Condensed Regular';
+  font-style: normal;
+  font-weight: 400 900;
+  src: url(https://cdn.jsdelivr.net/gh/0H4S/Themes@main/Fonts/WOFF2/SairaCondensed.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Teko Light';
+  font-style: normal;
+  font-weight: 300 700;
+  src: url(https://cdn.jsdelivr.net/gh/0H4S/Themes@main/Fonts/WOFF2/Teko.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Fira Code Light';
+  font-style: normal;
+  font-weight: 300 700;
+  src: url(https://cdn.jsdelivr.net/gh/0H4S/Themes@main/Fonts/WOFF2/FiraCode.woff2) format('woff2');
+}
