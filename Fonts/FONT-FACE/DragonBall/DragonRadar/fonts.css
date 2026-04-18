@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Exo 2 Regular';
+  font-style: normal;
+  font-weight: 100 900;
+  src: url(https://cdn.jsdelivr.net/gh/0H4S/Themes@main/Fonts/WOFF2/Exo2.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Orbitron Regular';
+  font-style: normal;
+  font-weight: 400 900;
+  src: url(https://cdn.jsdelivr.net/gh/0H4S/Themes@main/Fonts/WOFF2/Orbitron.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Share Tech Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/0H4S/Themes@main/Fonts/WOFF2/ShareTechMono.woff2) format('woff2');
+}
